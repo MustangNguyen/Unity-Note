@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unity/Programming/Navigation.md",
+                "file": "Unity/Programming/Unity git package/Unity Cursor Rule.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Navigation"
+              "title": "Unity Cursor Rule"
             }
           },
           {
@@ -200,8 +200,9 @@
   },
   "active": "e29e64804bae4292",
   "lastOpenFiles": [
-    "Unity/Programming/Unity git package/Cursor Unity.md",
     "Unity/Programming/Navigation.md",
+    "Unity/Programming/Unity git package/Unity Cursor Rule.md",
+    "Unity/Programming/Unity git package/Cursor Unity.md",
     "Unity/Programming/Unity git package",
     "Unity/Programming/Design System/Trap for Chain.md",
     "Unity/Programming/Code Templates/Get first object hit by raycast.md",
@@ -230,7 +231,6 @@
     "Untitled.canvas",
     "Unity/Programming/C Sharp Syntaxes/Lambdas và Closures.md",
     "Unity/Programming/Shooting space/AI-Suggest.md",
-    "Hacker Principles/YAGNI.md",
     "Hacker Principles/Untitled.canvas"
   ]
 }
