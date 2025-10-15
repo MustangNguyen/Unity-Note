@@ -1,0 +1,2 @@
+- Tạo và lưu các ô vào một từ điển [vector2,cell].
+- Tim ô trống phù hợp bằng cách dùng off-set của hình dạng cần tìm (lưu ý cần bắt đầu khối cần tìm từ vector2(0,0) ).

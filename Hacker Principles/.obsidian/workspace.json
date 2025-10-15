@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "bea68795971908a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "56aa5dde0be7c602",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b18163b261ab0bf6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Dilbert Principle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Dilbert Principle"
+            }
+          },
+          {
+            "id": "dda45fb0ccdcbd24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Dead Sea Effect.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Dead Sea Effect"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2fb888e50f09c3f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "5de0f402a1be6e2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9847118da76303a5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "42c684549ce90320",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3a82e1487f30b76a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "15b325e42c3a0195",
+    "type": "split",
+    "children": [
+      {
+        "id": "10f8495f1da9654b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08e8f57d3a91c6d0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "e0ef008a8a9365eb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "b11348c1c1b9b293",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f954d26d11544389",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "dda45fb0ccdcbd24",
+  "lastOpenFiles": [
+    "The Dependency Inversion Principle.md",
+    "The Dilbert Principle.md",
+    "The DRY Principle.md",
+    "The Fallacies of Distributed Computing.md",
+    "The Dead Sea Effect.md",
+    "Untitled.canvas",
+    "The Liskov Substitution Principle.md",
+    "SOLID.md",
+    "All Models Are Wrong (George Box's Law).md",
+    "Chesterton's Fence.md",
+    "The Interface Segregation Principle.md",
+    "The Robustness Principle (Postel's Law).md",
+    "The Principle of Least Astonishment.md",
+    "The KISS principle.md",
+    "The Single Responsibility Principle.md"
+  ]
+}

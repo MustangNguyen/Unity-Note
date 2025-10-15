@@ -1,0 +1,106 @@
+/* Global Code Styling */
+
+.markdown-preview-view pre,
+.markdown-preview-view code {
+    background-color: #1e1e1e;
+    /* Dark background */
+    color: #d4d4d4;
+    /* Default text color */
+    border-radius: 5px;
+    /* Rounded corners */
+    padding: 10px;
+    font-family: 'Consolas', 'Courier New', monospace;
+    /* Font */
+    font-size: 14px;
+    /* Adjust font size */
+}
+
+
+/* Inline Code */
+
+.markdown-preview-view code {
+    background-color: #252526;
+    color: #dcdcdc;
+    border-radius: 3px;
+    padding: 2px 4px;
+}
+
+
+/* Syntax Highlighting */
+
+:root {
+    /* Background and font size */
+    --code-background: #1e1e1e;
+    /* Dark background */
+    --code-size: 14px;
+    /* Default font size */
+    /* Syntax colors */
+    --code-normal: #d4d4d4;
+    /* Default text color */
+    /* Comments */
+    --code-comment: #6a9955;
+    /* Green for comments */
+    /* Functions */
+    --code-function: #DCDCAA;
+    /* Light yellow-green for function declarations */
+    /* Important keywords */
+    --code-important: #C586C0;
+    /* Purple for special keywords */
+    /* Keywords */
+    --code-keyword: #C586C0;
+    /* Purple for keywords */
+    /* Operators */
+    --code-operator: #D4D4D4;
+    /* White for operators */
+    /* Properties */
+    --code-property: #9CDCFE;
+    /* Light blue for properties */
+    /* Punctuation */
+    --code-punctuation: #D4D4D4;
+    /* White for punctuation */
+    /* Strings */
+    --code-string: #CE9178;
+    /* Orange for strings */
+    /* Tags */
+    --code-tag: #569CD6;
+    /* Blue for tags */
+    /* Values */
+    --code-value: #B5CEA8;
+    /* Light green for values */
+}
+
+
+/* Highlight adjustments for preview */
+
+.markdown-preview-view code .cm-comment {
+    color: var(--code-comment);
+    font-style: italic;
+}
+
+.markdown-preview-view code .cm-keyword {
+    color: var(--code-keyword);
+}
+
+.markdown-preview-view code .cm-string {
+    color: var(--code-string);
+}
+
+.markdown-preview-view code .cm-function {
+    color: var(--code-function);
+}
+
+.markdown-preview-view code .cm-variable {
+    color: var(--code-property);
+}
+
+.markdown-preview-view code .cm-tag {
+    color: var(--code-tag);
+}
+
+.markdown-preview-view code .cm-operator {
+    color: var(--code-operator);
+}
+
+.markdown-preview-view code .cm-number {
+    color: var(--code-value);
+}

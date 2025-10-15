@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "563d13b3af54e8e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f98e399213270f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5dee81c96c76ce8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unity/Programming/Code Templates/Mobile Vibrate.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mobile Vibrate"
+            }
+          },
+          {
+            "id": "e29e64804bae4292",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unity/Programming/Navigation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Navigation"
+            }
+          },
+          {
+            "id": "a2ca9f1e6de08764",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unity/Programming/Unity Patterns/Singleton.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Singleton"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "783e65832e50c596",
+    "type": "split",
+    "children": [
+      {
+        "id": "b55e55fdac7a375e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46e53e82df2125b9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cdfd9e9f967b04a6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1b52bca6377fad27",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 362.5
+  },
+  "right": {
+    "id": "a18f907b471c04e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "cab1c9c3cb4d9396",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "233bd573f4894ae0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Unity/Programming/Optimize/Coroutine Optimization.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Coroutine Optimization"
+            }
+          },
+          {
+            "id": "5df1eaee9c603c9d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Unity/Programming/Animation & UI/Unity Rotating.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Unity Rotating"
+            }
+          },
+          {
+            "id": "76b0f1cd253c6bd6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a8accc896078d936",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Unity/Programming/Animation & UI/Unity Rotating.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Unity Rotating"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e29e64804bae4292",
+  "lastOpenFiles": [
+    "Unity/Programming/Unity git package/Cursor Unity.md",
+    "Unity/Programming/Navigation.md",
+    "Unity/Programming/Unity git package",
+    "Unity/Programming/Design System/Trap for Chain.md",
+    "Unity/Programming/Code Templates/Get first object hit by raycast.md",
+    "Unity/Programming/Code Templates/Mobile Vibrate.md",
+    "Unity/Programming/Optimize/Coroutine Optimization.md",
+    "Unity/Programming/Unity Synctaxes/RuntimeInitializeOnLoadMethodAttribute.md",
+    "Unity/Programming/Unity Patterns/Serialize Field Unity Event.md",
+    "Unity/Programming/Design System",
+    "Unity/Programming/Code Templates/Gradient color UI.md",
+    "Unity/Programming/Code Templates/Inspector read only attribute.md",
+    "Unity/Programming/Code Templates/IsRaycastLocationValid.md",
+    "Unity/Programming/Code Templates/UI Culling Shader.md",
+    "Unity/Programming/Code Templates/Unity Rotating.md",
+    "Unity/Programming/Optimize/Optimized popups or scenes.md",
+    "Unity/Programming/Optimize/Gun Shooting Cooldown.md",
+    "Unity/Programming/Optimize/Optimize 2x2 matrix grid system.md",
+    "Unity/Programming/Optimize/Transform Optimazation.md",
+    "Unity/Programming/Optimize/Unity Object Pooling.md",
+    "Unity/Programming/C Sharp Syntaxes/MethodInfo.md",
+    "Unity/Programming/Unity Patterns/Singleton.md",
+    "Unity/Programming/C Sharp Syntaxes/String to Float Parsing with culture-invariant.md",
+    "Unity/Programming/Unity Synctaxes",
+    "Untitled",
+    "Unity/Programming/C Sharp Syntaxes/Inheritance Casting.md",
+    "Hacker Laws/Moore's Law.md",
+    "Untitled.canvas",
+    "Unity/Programming/C Sharp Syntaxes/Lambdas và Closures.md",
+    "Unity/Programming/Shooting space/AI-Suggest.md",
+    "Hacker Principles/YAGNI.md",
+    "Hacker Principles/Untitled.canvas"
+  ]
+}

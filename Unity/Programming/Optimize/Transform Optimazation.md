@@ -1,0 +1,1 @@
+Use `Transform.SetPositionAndRotation()` for moving and rotating objects in one operation.
