@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unity/Programming/Unity git package/Unity Cursor Rule.md",
+                "file": "Unity/Programming/Unity git package/Cursor Unity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unity Cursor Rule"
+              "title": "Cursor Unity"
             }
           },
           {
@@ -200,8 +200,8 @@
   },
   "active": "e29e64804bae4292",
   "lastOpenFiles": [
-    "Unity/Programming/Navigation.md",
     "Unity/Programming/Unity git package/Unity Cursor Rule.md",
+    "Unity/Programming/Navigation.md",
     "Unity/Programming/Unity git package/Cursor Unity.md",
     "Unity/Programming/Unity git package",
     "Unity/Programming/Design System/Trap for Chain.md",
