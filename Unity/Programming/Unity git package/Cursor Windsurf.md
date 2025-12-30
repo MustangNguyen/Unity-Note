@@ -1,4 +1,4 @@
 dùng unity package manager rồi add bằng vào bằng git link
 ```
-https://github.com/boxqkrtm/com.unity.ide.cursor.git
+https://github.com/Asuta/com.unity.ide.windsurf.git
 ```
